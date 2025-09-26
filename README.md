@@ -5,6 +5,7 @@ This project analyzes video game sales data to uncover trends across regions, pl
 
 📌 Project Overview
 Goal: Turn unstructured Excel data into a clean, structured dataset and build interactive dashboards to support data-driven decisions.
+
 Data Source: vgsales.csv (initially uncleaned and unstructured).
 
 Tools Used:
